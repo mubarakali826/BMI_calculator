@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BMI-calculator/static/css/main.9ff921b0.css",
+    "main.js": "/BMI-calculator/static/js/main.ef3ec3d6.js",
+    "static/js/787.2cdacd14.chunk.js": "/BMI-calculator/static/js/787.2cdacd14.chunk.js",
+    "index.html": "/BMI-calculator/index.html",
+    "main.9ff921b0.css.map": "/BMI-calculator/static/css/main.9ff921b0.css.map",
+    "main.ef3ec3d6.js.map": "/BMI-calculator/static/js/main.ef3ec3d6.js.map",
+    "787.2cdacd14.chunk.js.map": "/BMI-calculator/static/js/787.2cdacd14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff921b0.css",
+    "static/js/main.ef3ec3d6.js"
+  ]
+}
